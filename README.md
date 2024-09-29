@@ -11,6 +11,10 @@
 
 Siga os passos abaixo para configurar e executar o projeto:
 
+> **Importante:**
+>
+> - **Primeira vez que rodar:** Se a aplicação não rodar na primeira vez que executar o docker compose, tente rodar o comando uma segunda vez
+
 
 ### 1. Construir e Iniciar os Contêineres
 
