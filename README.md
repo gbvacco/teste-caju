@@ -1,5 +1,9 @@
 # Instruções para Executar o Projeto
 
+> **Observação:**
+>
+> - **Sobre a parte do teste que pede uma solução para que a transação não seja executada em concorrência, adicionei um campo chamado `Version` no banco de dados usando a notação @Version do spring jpa que faz o lock do banco evitando que o execução seja executada ao mesmo tempo.
+
 ## Requisitos
 
 - **Docker**: É necessário ter o Docker instalado em sua máquina.
